@@ -25,7 +25,7 @@ O sistema permite ao usuário **escolher pizzas, adicionar ao carrinho e calcula
 
 ## 📸 Demonstração
 
- <img src="assets/imgs/demonstração.png" alt="Preview do Projeto" width="500">
+ <img src="imagens/demonstração.png" alt="Preview do Projeto" width="500">
 
 ---
 
